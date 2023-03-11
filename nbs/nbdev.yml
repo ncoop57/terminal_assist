@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "terminal_assist"
+  site-url: "https://ncoop57.github.io/terminal_assist"
+  description: "An assistant right in your terminal"
+  repo-branch: main
+  repo-url: "https://github.com/ncoop57/terminal_assist"
